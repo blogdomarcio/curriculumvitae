@@ -1,0 +1,35 @@
+{
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "ejs": "^2.7.1",
+        "express": "^4.17.1",
+        "sqlite": "^3.0.3"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.4"
+    },
+    "name": "curriculumvitae",
+    "description": "Curriculum Vitae - Projeto desenvolvido com base nos conteúdos dos Cursos: DevFullStack e ReactJs - DevPleno",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/blogdomarcio/curriculumvitae.git"
+    },
+    "keywords": [
+        "curriculum",
+        "vitae",
+        "devpleno",
+        "blogdomarcio",
+        "fullstack"
+    ],
+    "author": "Claudio Marcio - @blogdomarcio",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/blogdomarcio/curriculumvitae/issues"
+    },
+    "homepage": "https://github.com/blogdomarcio/curriculumvitae#readme"
+}
